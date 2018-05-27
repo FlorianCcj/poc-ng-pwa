@@ -1,6 +1,6 @@
 #!/bin/bash
 cd ../poc-ng-pwa-deployment
-rm -rf *
+rm -rf ./*
 cd -
 npm run deploy
 cd -
