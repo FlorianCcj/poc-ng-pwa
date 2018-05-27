@@ -2,6 +2,12 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.5.
 
+## Deploy
+ * git clone https://github.com/FlorianCcj/poc-ng-pwa.git
+ * git clone https://github.com/FlorianCcj/poc-ng-pwa.git poc-ng-pwa-deployment
+ * cd poc-ng-pwa-deployment && git co gh-pages
+ * cd ../poc-ng-pwa && npm i && ./deploy.sh
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
